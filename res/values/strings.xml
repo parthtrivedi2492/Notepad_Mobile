@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notepad</string>
+    <string name="title">Title</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="save_as_menu_noteedit">Save As</string>
+    <string name="exit_menu_noteedit">Exit</string>
+    <string name="dropdown">Recent</string>
+    <string name="ok">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="renameMsg">Save as:</string>
+    <string name="renameHint">Enter the new title here</string>
+    <string name="initializing">"Initializing Notepad.."</string>
+    <string name="defaultSavingLocationHint">Your default saving location is:</string>
+    <string name="fileAlreadyExistsToast">File already Exists.\nPlease Save it with another title.</string>
+    <string name="savedFileLocationToast">The file is saved at \n</string>
+
+</resources>

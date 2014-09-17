@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notepad</string>
+    <string name="title">Título</string>
+    <string name="save_menu_noteedit">Guardar</string>
+    <string name="save_as_menu_noteedit">Guardar como</string>
+    <string name="exit_menu_noteedit">Salida</string>
+    <string name="dropdown">Reciente</string>
+    <string name="ok">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="renameMsg">Guardar como:</string>
+    <string name="renameHint">introduzca el nuevo título aquí</string>
+    <string name="initializing">"Iniciando Notepad.."</string>
+    <string name="defaultSavingLocationHint">Su ubicación de almacenamiento predeterminada es:</string>
+    <string name="fileAlreadyExistsToast">El archivo ya existe.\nPor favor Guárdelo con otro título.</string>
+    <string name="savedFileLocationToast">El archivo se guarda en \n</string>
+
+</resources>
